@@ -1,0 +1,20 @@
+* {
+    box-sizing: border-box;
+}
+
+.bkgrnd {
+    background: gray;
+    height: 70px;
+    text-align: center;
+    padding-top: 2px;
+}
+
+section {
+    padding-top: 5px;
+    padding-left: 5px;
+}
+
+li {
+    list-style: none;
+    padding-top: 10px;
+}

@@ -1,0 +1,28 @@
+* {
+    box-sizing: border-box;
+}
+
+main {
+    padding: 30px;
+    min-width: 250px;
+}
+
+.hero {
+    height: 200px;
+    margin-bottom: 20px;
+}
+
+.hero img {
+    height: 100%
+}
+
+.thumbnail {
+    display: inline-block;
+    cursor: pointer;
+    width: 10%;
+    height: 150px;
+}
+
+.thumbnail img {
+    max-height: 40%;
+}
